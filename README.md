@@ -44,6 +44,6 @@ Bài tập giữa kỳ
 └── README.md
 ```
 ## Liên kết nộp bài
-- Link Figma: _(dán link vào đây)_
-- Link video: _(dán link vào đây)_
-- Link GitHub: _(dán link vào đây)_
+- Link Figma: https://canva.link/4c8mbtyd3w28a0u
+- Link video: https://youtu.be/BXGsoW8wScI?si=WfqstnHGd72ldL3X
+- Link GitHub: 
