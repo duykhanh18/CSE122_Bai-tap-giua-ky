@@ -1,15 +1,11 @@
 # VolunteerLink – Trang "Bảng ghép người" (Điều phối viên)
-
-Bài kiểm tra giữa kỳ – Học phần CSE122: Phát triển ứng dụng Web cơ bản.
-
 ## Thông tin
-
 | Mục | Nội dung |
 |---|---|
-| Tên đề tài | VolunteerLink – Ghép tình nguyện viên với hoạt động cộng đồng (BTL-24) |
-| Trang đã thực hiện | Bảng ghép người (Matching Board) – `coordinator-matching-board` |
+| Tên đề tài | VolunteerLink – Ghép tình nguyện viên với hoạt động cộng đồng  |
+| Trang đã thực hiện | Bảng ghép người  – `coordinator-matching-board` |
 | Vai trò sử dụng | Điều phối viên |
-| Sinh viên | _(điền họ tên – MSSV)_ |
+| Sinh viên | Nguyễn Duy Khánh - MSV 2551060635 |
 
 ## Mục đích của trang
 Giúp điều phối viên chọn ca còn thiếu người, xem danh sách ứng viên được chấm điểm phù hợp
@@ -24,16 +20,14 @@ Giúp điều phối viên chọn ca còn thiếu người, xem danh sách ứng
   Chấp nhận / Sửa trọng số (modal) / Từ chối / Tạo lại / Lưu; có trạng thái *không đủ dữ liệu*, *chưa chắc chắn*.
 - Trạng thái đang tải (skeleton), rỗng, thông báo (toast), chuông thông báo.
 - Chuyển **chế độ sáng / tối**; **responsive** desktop, tablet (menu ngăn kéo), mobile.
-
 ## Công nghệ sử dụng
 HTML5 (semantic) · CSS3 (Flexbox, Grid, biến CSS, Media Query) · JavaScript thuần (DOM, Event). Không dùng framework, không cần máy chủ.
-
 ## Cấu trúc thư mục
-```text
-bang-ghep-nguoi/
+Bài tập giữa kỳ
 ├── index.html          # cấu trúc trang
 ├── css/
-│   └── style.css       # giao diện + chế độ tối + responsive
+│   └── style.css
+    └── main.css
 ├── js/
 │   ├── data.js         # dữ liệu mẫu (kỹ năng, tình nguyện viên, ca, đăng ký)
 │   ├── state.js        # trạng thái trang (ca đang chọn, kết quả AI)
@@ -44,11 +38,9 @@ bang-ghep-nguoi/
 │   ├── layout.js       # menu ☰, chế độ sáng/tối, đăng xuất
 │   └── main.js         # gắn sự kiện + khởi chạy
 ├── assets/images/
+    └── .gitkeep
 └── README.md
-```
 
-## Cách chạy
-Mở file `index.html` bằng trình duyệt (hoặc dùng Live Server trong VS Code).
 
 ## Liên kết nộp bài
 - Link Figma: _(dán link vào đây)_
