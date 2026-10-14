@@ -23,11 +23,13 @@ Giúp điều phối viên chọn ca còn thiếu người, xem danh sách ứng
 ## Công nghệ sử dụng
 HTML5 (semantic) · CSS3 (Flexbox, Grid, biến CSS, Media Query) · JavaScript thuần (DOM, Event). Không dùng framework, không cần máy chủ.
 ## Cấu trúc thư mục
-Bài tập giữa kỳ
+```text
+Bài tập giữa kỳ 
 ├── index.html          # cấu trúc trang
 ├── css/
-│   └── style.css
-│   └── main.css
+│   ├── style.css        
+│   ├── main.css
+│    
 ├── js/
 │   ├── data.js         # dữ liệu mẫu (kỹ năng, tình nguyện viên, ca, đăng ký)
 │   ├── state.js        # trạng thái trang (ca đang chọn, kết quả AI)
@@ -38,10 +40,9 @@ Bài tập giữa kỳ
 │   ├── layout.js       # menu ☰, chế độ sáng/tối, đăng xuất
 │   └── main.js         # gắn sự kiện + khởi chạy
 ├── assets/images/
-│    └── .gitkeep
+│   └── .gitkeep 
 └── README.md
-
-
+```
 ## Liên kết nộp bài
 - Link Figma: _(dán link vào đây)_
 - Link video: _(dán link vào đây)_
