@@ -3,7 +3,7 @@
 | Mục | Nội dung |
 |---|---|
 | Tên đề tài | VolunteerLink – Ghép tình nguyện viên với hoạt động cộng đồng  |
-| Trang đã thực hiện | Bảng ghép người  – `coordinator-matching-board` |
+| Trang đã thực hiện | Bảng ghép người  |
 | Vai trò sử dụng | Điều phối viên |
 | Sinh viên | Nguyễn Duy Khánh - MSV 2551060635 |
 
