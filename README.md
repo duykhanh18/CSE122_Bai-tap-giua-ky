@@ -27,7 +27,7 @@ Bài tập giữa kỳ
 ├── index.html          # cấu trúc trang
 ├── css/
 │   └── style.css
-    └── main.css
+│   └── main.css
 ├── js/
 │   ├── data.js         # dữ liệu mẫu (kỹ năng, tình nguyện viên, ca, đăng ký)
 │   ├── state.js        # trạng thái trang (ca đang chọn, kết quả AI)
@@ -38,7 +38,7 @@ Bài tập giữa kỳ
 │   ├── layout.js       # menu ☰, chế độ sáng/tối, đăng xuất
 │   └── main.js         # gắn sự kiện + khởi chạy
 ├── assets/images/
-    └── .gitkeep
+│    └── .gitkeep
 └── README.md
 
 
