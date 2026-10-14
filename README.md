@@ -46,4 +46,4 @@ Bài tập giữa kỳ
 ## Liên kết nộp bài
 - Link Figma: https://canva.link/4c8mbtyd3w28a0u
 - Link video: https://youtu.be/BXGsoW8wScI?si=WfqstnHGd72ldL3X
-- Link GitHub: 
+- Link GitHub: https://github.com/duykhanh18/CSE122_Bai-tap-giua-ky.git
